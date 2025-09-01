@@ -1263,27 +1263,29 @@ Remember: Your GM will help decide when battles happen and guide you toward the 
 
 #### Basic Battle Rules
 
-**Step 1: Choose Your Approach**
+##### Step 1: Choose Your Approach
+
 Decide what your Pokemon will try to do:
 
 - **Attack** (Strength): Try to overwhelm the opponent with power
 - **Outmaneuver** (Speed): Use agility to gain advantage
 - **Intimidate/Befriend** (Heart): Use personality to influence the opponent
 
-**Step 2: Opposed Rolls**
+##### Step 2: Opposed Rolls
 
 - Both Pokemon roll dice for their chosen approach
 - Use the appropriate stat (Strength, Speed, or Heart)
 - Roll the number of dice for your Pokemon's current stage
 - Count successes (5s and 6s) for each Pokemon
 
-**Step 3: Compare Results**
+##### Step 3: Compare Results
 
 - **More successes**: Your Pokemon gains the advantage this round
 - **Equal successes**: It's a tie - both Pokemon are evenly matched
 - **Fewer successes**: The opponent gains the advantage
 
-**Step 4: Describe What Happens**
+##### Step 4: Describe What Happens
+
 The GM describes the action based on the results:
 
 - **Clear winner**: The winning Pokemon makes good progress toward victory
@@ -1292,7 +1294,7 @@ The GM describes the action based on the results:
 
 #### Battle Examples
 
-**Example 1: Wild Snorlax Blocking the Path**
+##### Example 1: Wild Snorlax Blocking the Path
 
 *Round 1*:
 
@@ -1310,7 +1312,7 @@ The GM describes the action based on the results:
 - **Snorlax rolls**: 2, 6, 6, 6 = **3 successes**
 - **Result**: Snorlax communicates that it just wants to sleep peacefully. Maybe you can find another way around?
 
-**Example 2: Gym Leader Challenge**
+##### Example 2: Gym Leader Challenge
 
 *Round 1*:
 
