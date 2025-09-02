@@ -199,13 +199,13 @@ A typical Pokemon RPG session follows this structure:
 **Add extra dice for**:
 
 - **Relevant skills** (+1 die)
-- **Help from friends** (+1 die per helper, max 2)
+- **Help from friends** (+1 die per helper, max of +2 die)
 - **Good ideas or clever plans** (+1 die)
 - **Right tools for the job** (+1 die)
 - **Pokemon assistance** (+1 die)
 - **Type advantages** (+1 die when applicable)
 
-**Maximum dice pool**: 8 dice (keep it manageable)
+**Maximum dice pool**: 11 dice
 
 ### Setting Difficulty
 
@@ -1166,7 +1166,7 @@ When you need an NPC on the spot:
 - **Right tools**: +1 die for proper equipment
 - **Pokemon help**: +1 die for assistance
 - **Type advantage**: +1 die when applicable
-- **Maximum**: 8 dice total
+- **Maximum**: 11 dice total
 
 #### Success Interpretation
 
