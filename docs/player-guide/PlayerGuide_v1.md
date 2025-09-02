@@ -5,10 +5,71 @@ Welcome to the Pokemon Club RPG! This is a pen-and-paper roleplaying game design
 ## Table of Contents
 
 1. [Dice System](#dice-system)
+   - [What You Need](#what-you-need)
+   - [How Rolling Works](#how-rolling-works)
+   - [When Do You Roll More Dice?](#when-do-you-roll-more-dice)
+   - [Quick Reference](#quick-reference)
+
 2. [Creating Your Character](#creating-your-character)
+   - [Trainer Stats](#trainer-stats)
+     - [The Three Stats](#the-three-stats)
+     - [Setting Your Stats](#setting-your-stats)
+     - [How Stats Work with Dice](#how-stats-work-with-dice)
+   - [Character Creation Steps](#character-creation-steps)
+   - [Skills](#skills)
+     - [How Skills Work](#how-skills-work)
+     - [Starting Skills](#starting-skills)
+   - [Professions](#professions)
+   - [Character Sheet Template](#character-sheet-template)
+
 3. [Basic Gameplay](#basic-gameplay)
+   - [How the Game Works](#how-the-game-works)
+   - [When Do You Roll Dice?](#when-do-you-roll-dice)
+   - [Making Skill Checks](#making-skill-checks)
+   - [Working Together](#working-together)
+   - [Failure and Setbacks](#failure-and-setbacks)
+   - [Adventure Flow](#adventure-flow)
+
 4. [Pokemon Partners](#pokemon-partners)
+   - [Pokemon Stats](#pokemon-stats)
+   - [Pokemon Stages](#pokemon-stages)
+   - [Pokemon Evolution](#pokemon-evolution)
+   - [Experience Points (EXP)](#experience-points-exp)
+   - [Pokemon Moves](#pokemon-moves)
+     - [Types of Moves](#types-of-moves)
+     - [Pokemon Types and Type Advantages](#pokemon-types-and-type-advantages)
+     - [Type Advantage Bonus](#type-advantage-bonus)
+     - [How to Use Type Advantages](#how-to-use-type-advantages)
+     - [Type Chart for GMs and Older Kids](#type-chart-for-gms-and-older-kids)
+     - [Dual-Type Pokemon and Moves](#dual-type-pokemon-and-moves)
+     - [Learning New Moves](#learning-new-moves)
+   - [Using Pokemon in Adventures](#using-pokemon-in-adventures)
+   - [Starting Your Pokemon Partner](#starting-your-pokemon-partner)
+   - [Pokemon Partner Sheet Template](#pokemon-partner-sheet-template)
+   - [Growing Together](#growing-together)
+   - [Quick Questions & Answers](#quick-questions--answers)
+
 5. [Adventures and Challenges](#adventures-and-challenges)
+   - [Types of Adventures](#types-of-adventures)
+     - [Exploration Adventures](#exploration-adventures)
+     - [Mystery Adventures](#mystery-adventures)
+     - [Helping Adventures](#helping-adventures)
+   - [Challenge Types](#challenge-types)
+     - [Environmental Challenges](#environmental-challenges)
+     - [Social Challenges](#social-challenges)
+     - [Problem-Solving Challenges](#problem-solving-challenges)
+   - [Making Adventures Memorable](#making-adventures-memorable)
+   - [Adventure Safety and Fun](#adventure-safety-and-fun)
+   - [Adventure Ideas for New Groups](#adventure-ideas-for-new-groups)
+   - [Pokemon Battles](#pokemon-battles)
+     - [When Battles Happen](#when-battles-happen)
+     - [Basic Battle Rules](#basic-battle-rules)
+     - [Battle Examples](#battle-examples)
+     - [Winning and Losing Battles](#winning-and-losing-battles)
+     - [Battle Strategy Tips](#battle-strategy-tips)
+     - [Team Battles](#team-battles)
+     - [Alternative Battle Outcomes](#alternative-battle-outcomes)
+     - [Battle Safety](#battle-safety)
 
 ---
 
@@ -75,12 +136,6 @@ Rolling multiple dice is a great way to practice:
 - **Counting**: How many 5s and 6s did you roll?
 - **Addition**: Adding up your successes from different rolls
 - **Probability**: Learning that more dice = better chances
-
-**Quick Visual Guide:**
-
-- 1 = 😐 (Complication, but keep counting!)
-- 2, 3, 4 = 😶 (Nothing special)
-- 5, 6 = 😊 (SUCCESS! Count these!)
 
 ---
 
@@ -207,30 +262,6 @@ Your trainer's profession is what they did before becoming a Pokemon trainer, or
 - **Bonus Skill**: Navigator
 - **Special Knowledge**: You know about wild Pokemon habitats and survival skills
 
-##### Nurse Family
-
-- Your family helps heal Pokemon at Pokemon Centers
-- **Bonus Skill**: Kind Helper
-- **Special Knowledge**: You know how to help hurt or sick Pokemon feel better
-
-##### Gym Helper Family
-
-- Your family works at Pokemon Gyms
-- **Bonus Skill**: Team Leader
-- **Special Knowledge**: You know about Pokemon battles and training techniques
-
-##### Shop Keeper Family
-
-- Your family runs a shop that sells items to trainers
-- **Bonus Skill**: Peacemaker
-- **Special Knowledge**: You know about useful items and where to find things
-
-##### Explorer Family
-
-- Your family loves to discover new places
-- **Bonus Skill**: Brave Heart
-- **Special Knowledge**: You know about ancient ruins, legends, and hidden places
-
 ##### Detective Family
 
 - Your family works with Officer Jenny to solve mysteries
@@ -242,6 +273,12 @@ Your trainer's profession is what they did before becoming a Pokemon trainer, or
 - Your family runs the town library or works with Professor Oak's research
 - **Bonus Skill**: Researcher
 - **Special Knowledge**: You know where to find information about anything
+
+##### Explorer Family
+
+- Your family loves to discover new places
+- **Bonus Skill**: Brave Heart
+- **Special Knowledge**: You know about ancient ruins, legends, and hidden places
 
 ##### Dojo Family
 
@@ -266,6 +303,24 @@ Your trainer's profession is what they did before becoming a Pokemon trainer, or
 - Your family raises and cares for Pokemon eggs and babies at daycare centers
 - **Bonus Skill**: Pokemon Whisperer
 - **Special Knowledge**: You understand Pokemon emotions and needs really well
+
+##### Shop Keeper Family
+
+- Your family runs a shop that sells items to trainers
+- **Bonus Skill**: Peacemaker
+- **Special Knowledge**: You know about useful items and where to find things
+
+##### Gym Helper Family
+
+- Your family works at Pokemon Gyms
+- **Bonus Skill**: Team Leader
+- **Special Knowledge**: You know about Pokemon battles and training techniques
+
+##### Nurse Family
+
+- Your family helps heal Pokemon at Pokemon Centers
+- **Bonus Skill**: Kind Helper
+- **Special Knowledge**: You know how to help hurt or sick Pokemon feel better
 
 ### Character Sheet Template
 
@@ -386,6 +441,7 @@ Add up your dice from:
 - **Your stat** (1-4 dice based on your rating)
 - **Your skill** (+1 die if you have a matching skill)
 - **Help from friends** (+1 die if someone helps you)
+- **Help from Pokemon Partners** (+1 die if your Pokemon helps you)
 - **Good ideas** (+1 die if your plan is really clever)
 - **Right tools** (+1 die if you have the perfect item)
 
@@ -759,6 +815,83 @@ When your Pokemon's type or move type is **super effective** for the situation, 
 - Digging through obstacles
 - Creating stable foundations
 
+**Psychic Types/Moves are great for**:
+
+- Reading minds or sensing emotions
+- Moving objects without touching them
+- Understanding puzzles and mysteries
+- Communicating across long distances
+
+**Ice Types/Moves are great for**:
+
+- Cooling down overheated areas
+- Creating slippery surfaces to slide on
+- Preserving food or important items
+- Making temporary bridges over water
+
+**Fighting Types/Moves are great for**:
+
+- Breaking through tough barriers
+- Training and building strength
+- Protecting others from danger
+- Showing discipline and determination
+
+**Poison Types/Moves are great for**:
+
+- Neutralizing harmful toxins
+- Creating helpful chemical reactions
+- Identifying dangerous substances
+- Cleaning contaminated areas
+
+**Steel Types/Moves are great for**:
+
+- Cutting through metal obstacles
+- Building strong, lasting structures
+- Protecting against attacks
+- Working with machinery and tools
+
+**Bug Types/Moves are great for**:
+
+- Finding hidden passages
+- Communicating with nature
+- Working as a coordinated team
+- Gathering information and scouting
+
+**Ghost Types/Moves are great for**:
+
+- Moving through solid objects
+- Communicating with spirits
+- Exploring scary or mysterious places
+- Helping lost souls find peace
+
+**Dark Types/Moves are great for**:
+
+- Moving unseen in shadows
+- Understanding fears and overcoming them
+- Working at night or in dark places
+- Helping others face their worries
+
+**Dragon Types/Moves are great for**:
+
+- Inspiring others with ancient wisdom
+- Overcoming seemingly impossible challenges
+- Leading with courage and strength
+- Connecting with legendary Pokemon
+
+**Fairy Types/Moves are great for**:
+
+- Bringing good luck and hope
+- Healing emotional wounds
+- Creating magical solutions
+- Spreading joy and happiness
+
+**Normal Types/Moves are great for**:
+
+- Adapting to any situation
+- Working well with any team
+- Learning new skills quickly
+- Being reliable in everyday tasks
+
 #### How to Use Type Advantages
 
 1. **Describe the situation**: "There's a big ice wall blocking our path"
@@ -772,14 +905,34 @@ When your Pokemon's type or move type is **super effective** for the situation, 
 **Situation Types → Helpful Pokemon/Move Types**:
 
 - **Ice/Cold Problems** → Fire types
-- **Fire/Heat Problems** → Water types
+- **Fire/Heat Problems** → Water or Ice types
 - **Water Obstacles** → Electric or Grass types
-- **Rock/Earth Barriers** → Water or Grass types
+- **Rock/Earth Barriers** → Water, Grass, or Fighting types
 - **High Places** → Flying types
-- **Dark Areas** → Electric or Fire types
+- **Dark Areas** → Electric, Fire, or Psychic types
 - **Mechanical Problems** → Electric or Steel types
-- **Scared Pokemon** → Normal or Psychic types
-- **Poison/Sickness** → Grass or Psychic types
+- **Scared Pokemon** → Normal, Psychic, or Fairy types
+- **Poison/Sickness** → Grass, Psychic, or Poison types
+- **Metal Barriers** → Fire, Fighting, or Steel types
+- **Emotional Problems** → Psychic, Fairy, or Normal types
+- **Ancient Mysteries** → Psychic, Ghost, or Dragon types
+- **Stealth/Sneaking** → Dark or Ghost types
+- **Heavy Lifting** → Fighting, Rock, or Steel types
+- **Fast Travel** → Flying, Electric, or Dragon types
+- **Communication Issues** → Psychic, Normal, or Heart-focused Pokemon
+- **Natural Disasters** → Ground, Rock, or Steel types
+- **Magical/Mysterious Events** → Fairy, Psychic, or Ghost types
+- **Team Coordination** → Bug, Normal, or any Pokemon with high Heart
+- **Preservation/Storage** → Ice, Steel, or Grass types
+- **Contamination/Cleanup** → Poison, Steel, or Water types
+- **Navigation/Getting Lost** → Flying, Psychic, or Pokemon with good senses
+- **Intimidation/Bullies** → Fighting, Dragon, or Dark types
+- **Healing/Recovery** → Grass, Fairy, or Normal types
+- **Construction/Building** → Steel, Rock, or Fighting types
+- **Weather Problems** → Depends on weather type (Ice for heat, Fire for cold, etc.)
+- **Spiritual/Supernatural** → Ghost, Psychic, or Fairy types
+- **Leadership Challenges** → Dragon, Fighting, or Pokemon with high Heart
+- **Adaptation/Flexibility** → Normal types (they're good at everything!)
 
 #### Dual-Type Pokemon and Moves
 
